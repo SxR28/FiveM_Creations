@@ -4,4 +4,5 @@
 
 <ul>
   <li> Comenzi de Staff pe chat (tot ce este in K / Admin ) </li>
+  <li> Comanda de a spawna masina cu un meniu de culoare, etc </li>
 </ul>
