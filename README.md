@@ -12,4 +12,7 @@
   <li> Sistem de primarie, un cont special pentru staff de unde se pot retrage bani, acesti bani provin din amenzi, taxe, dosare penale etc </li>
   <li> Sistem de banking UNIC, design facut personal de mine <b> Designul este facut in SCSS, CSS, bootstrap 5 </b> </li>
   <li> Sistem de dosare penale, design facut personal de mine, politia poate adauga din meniul lor personal dosare penale, totate infractiunile sunt acolo, amenzi etc, <b>  <b> Designul este facut in SCSS, CSS</b> </li>
+  <li> Meniul de pe <i><k> K </i></k> este refacut total, este un meniu rotund cu optiuni Off-character </li>
+  <li> Diferite optimizari la server, sa mearga totul mai bine, etc stiti voi </li>
+  <li> QUEST de craciun, pasti, haloween, si tot felul de alte questuri </li>  
 </ul>
