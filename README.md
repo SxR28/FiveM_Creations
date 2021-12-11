@@ -10,4 +10,6 @@
   <li> Sistem de card, mergi la un NPC, te inregistrezi, iti oferi mail-ul personal [ cel real ], si vei primi pe mail confirmare ca ti s-a acceptat cardul sau nu, mergi sa il iei de la banca si il poti folosi oriunde </li>
   <li> Aplicatie de luat notite, un fel de <b> EVERNOTE </b> pentru cunoscatori, iti poti nota ce vrei </li>
   <li> Sistem de primarie, un cont special pentru staff de unde se pot retrage bani, acesti bani provin din amenzi, taxe, dosare penale etc </li>
+  <li> Sistem de banking UNIC, design facut personal de mine <b> Designul este facut in SCSS, CSS, bootstrap 5 </b> </li>
+  <li> Sistem de dosare penale, design facut personal de mine, politia poate adauga din meniul lor personal dosare penale, totate infractiunile sunt acolo, amenzi etc, <b>  <b> Designul este facut in SCSS, CSS</b> </li>
 </ul>
