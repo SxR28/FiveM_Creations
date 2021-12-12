@@ -17,4 +17,6 @@
   <li> QUEST de craciun, pasti, haloween, si tot felul de alte questuri </li>  
   <li> Sistem de interfata, functioneazan astfel, apesi pe K si dai schimba interfata, si vei primi mai multe optiuni, adica vei avea huduri diferite, speedometeruri diferite, tot este diferit dupa bunul plac, hudul si speedometerul se poate configura cu culori,  etc sa il modifici dupa bunul plan <b> [ ACEST SISTEM ESTE FOARTE COMPLEX, PRETUL ESTE 150+ ] </b>
   <li> Sistem de telefon mai avansat decat restul, trebe mers la diferite magazine de pe harta : (APPLE), (SAMSUNG), (HUAWEI), (MOTOROLA) si iti cumperi telefonul, exisra mai multe tipuri de telefoane la fiecare firma ca in viata reala, la apple iphone 6,7,8,X,XS,XR,11,12,13 fiecare cu pro si pro max [UNDE ESTE POSIBIL], la samsung la fel, la huawei si motorola doar unu, de aici mergi la vodafone, orange etc, si iti cumperi cartela, iti oferi datele etc si vei primi un cod de activare a cartelei, apelezi si primesti un number, bagi acel numar in setari si telefonul poate fii folosit, cartela se incarca pe saptamana, cu 10 dolari (IN GAME) </li>
+  <li> Sistem de ban offline </li>
+  <li> Sistem de unban automat, daca banezi pe cineva 10 zile, server-ul va scadea automat cele zece zile si acel jucator va fi notificat pe discord la momentul cand a primit unban </li>
 </ul>
