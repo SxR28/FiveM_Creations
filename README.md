@@ -20,5 +20,5 @@
   <li> Sistem de ban offline </li>
   <li> Sistem de unban automat, daca banezi pe cineva 10 zile, server-ul va scadea automat cele zece zile si acel jucator va fi notificat pe discord la momentul cand a primit unban </li>
   <li> Sistem de inmatriculare, fiecare masina care o folosesti trebe matriculata si cele de job, selectezi oras si un numer si 3 litere </li>
-  <li> Sistem de login, oferi ID tau de discord, numele, mail-ul personal, si iti faci un cont pe joc cu nume, parola, altii pot sa se conecteze la contul tau daca le oferi datele, si tu la fel, deci grija
+  <li> Sistem de login, oferi ID tau de discord, numele, mail-ul personal, si iti faci un cont pe joc cu nume, parola, altii pot sa se conecteze la contul tau daca le oferi datele, si tu la fel, deci grija </li>
 </ul>
