@@ -15,4 +15,5 @@
   <li> Meniul de pe <i><k> K </i></k> este refacut total, este un meniu rotund cu optiuni Off-character </li>
   <li> Diferite optimizari la server, sa mearga totul mai bine, etc stiti voi </li>
   <li> QUEST de craciun, pasti, haloween, si tot felul de alte questuri </li>  
+  <li> Sistem de interfata, functioneazan astfel, apesi pe K si dai schimba interfata, si vei primi mai multe optiuni, adica vei avea huduri diferite, speedometeruri diferite, tot este diferit dupa bunul plac, hudul si speedometerul se poate configura cu culori,  etc sa il modifici dupa bunul plan <b> [ ACEST SISTEM ESTE FOARTE COMPLEX, PRETUL ESTE 150+ ] </b>
 </ul>
