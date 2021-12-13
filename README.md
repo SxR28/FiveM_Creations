@@ -22,4 +22,5 @@
   <li> Sistem de inmatriculare, fiecare masina care o folosesti trebe matriculata si cele de job, selectezi oras si un numer si 3 litere </li>
   <li> Sistem de login, oferi ID tau de discord, numele, mail-ul personal, si iti faci un cont pe joc cu nume, parola, altii pot sa se conecteze la contul tau daca le oferi datele, si tu la fel, deci grija </li>
   <li> Sistem de permise, fiecare masina are o clasa de vechicul [A], [B], [C], pentru fiecare este un test special cu intrebari asemenea, design in css, bootstrap 5 </li>
+  <li> Sistem de sesiune, ceva destul de unic sa zic asa prin romania, sistemul consta asta, se creeaza un thread al serverului, un mic server atasat de cel mare, o sesiune, sunt mai multe tipuri de sesiunde, maximul de playeri pe sesiune este de 64, se creeaza sesiunea prin meniul K, se specifica chestiile dorite si se creeaza, [ PRETUL ESTE DE 200+ ]
 </ul>
