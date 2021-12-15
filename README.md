@@ -25,5 +25,7 @@
   <li> Sistem de sesiune, ceva destul de unic sa zic asa prin romania, sistemul consta asta, se creeaza un thread al serverului, un mic server atasat de cel mare, o sesiune, sunt mai multe tipuri de sesiunde, maximul de playeri pe sesiune este de 64, se creeaza sesiunea prin meniul K, se specifica chestiile dorite si se creeaza, [ PRETUL ESTE DE 200+ ] </li>
   <li> Sistem de minigame-uri : box, kickbox, paintball, hide and seek, airsoft [VOR MAI URMA CAND AM IDEEI] </li>
   <li> Sistem de piata, mergi intru-n loc, si iti pui item-ul dorit sa il vinzi, setezi pret, cantitate, etc, de acolo jucatorul ce vrea sa cumpere te conteacteaza ori cumpara prin metoda fast delivery si un npc cu o masina va veni la el acasa si ii va lasa in posta item-ul respectiv </li>
-  <li< Sistem de parcare, asemanator lui Hacker Geo </li>
+  <li> Sistem de parcare, asemanator lui Hacker Geo </li>
+  <li> Sistem de donat sange </li>
+  <li> Watermark (Am mai multe optiuni la acesta, este dupa bunul plac) </li>
 </ul>
